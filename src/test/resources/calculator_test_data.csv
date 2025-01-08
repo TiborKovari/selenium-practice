@@ -1,0 +1,5 @@
+numberA,operation,numberB,expectedResult
+1,+,2,3
+4,+,4,8
+5,+,5,10
+9,+,9,18
